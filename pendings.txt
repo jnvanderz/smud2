@@ -1,0 +1,2 @@
+#1.- Should we also log the user stream?
+#2.- Main Client
