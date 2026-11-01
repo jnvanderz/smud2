@@ -1,3 +1,4 @@
+# minimal client that connects to www.windows93.net 8082 using telnetlib3 for handling telnet related interactions
 import os
 import asyncio
 import threading
