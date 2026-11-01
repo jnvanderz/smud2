@@ -1,2 +1,4 @@
-#1.- Should we also log the user stream?
-#2.- Main Client
+# 1. Should we also log the user's input?
+# 2. Should we send user input character by character, or only send complete lines when we detect "\n"?
+      some mud clients do it with complete lines + "\n" (Mudlet, MUSHclient, TinTin++, zMUD/CMUD)
+# 3. Main client
