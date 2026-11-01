@@ -1,3 +1,8 @@
+# minimal client that connects to www.windows93.net 8082 using sockets only
+# logs everything the server responds in 2 files
+#    server bytes log <- the entire contents of the server response stream
+#    server packet log <- it wraps the exact packet the way it arrived at this client, and timestamps it
+#        so we can see that not every packet ends with a \n
 import os
 import socket
 import threading
