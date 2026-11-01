@@ -1,3 +1,4 @@
+# minimal client that connects to www.windows93.net 8082 using sockets only
 import os
 import socket
 import threading

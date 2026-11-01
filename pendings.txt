@@ -1,0 +1,13 @@
+questions
+---------
+# q1. Should we also log the user's input?
+# q2. Should we send user input character by character, or only send complete lines when we detect "\n"?
+      some mud clients do it with complete lines + "\n" (Mudlet, MUSHclient, TinTin++, zMUD/CMUD)
+# q3. What user interface should we use?
+      a) stdout <- current one
+      b) tui (Textual/prompt_toolkit/Rich/blessed/asciimatics/ncurses-like)
+      c) gui
+
+pendings
+--------
+# 1p. Main client (duh!)
