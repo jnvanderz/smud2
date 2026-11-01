@@ -1,0 +1,687 @@
+[0m[1m[0m[1m[31mWelcome to 93 Realms.[0m[1m[0m
+[0;30m.................................................[s[s[0;37m@@@@@@
+[0;30m........................................[s[s[0;37m@@@@@@@@@@@@@@@@@@@@@@@@
+[0;30m.[s[s[0;37m@[0;30m..................................[s[s[0;37m@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@[0;30m....[s[s[0;37m@@[0;30m.......................[s[s[0;37m@@@@[0;30m.[s[s[0;37m@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[0;30m.....[s[s[0;37m@@@[0;30m....[s[s[0;37m@@[0;30m...[s[s[0;37m@@@@[0;30m...[s[s[0;37m@@@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[s[0;37m@@@@@@[0;32m####################[s[0;37m@@@@@@@
+[0;30m..........[s[s[0;37m@@@@[0;30m..[s[s[0;37m@@@@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[s[0;37m@[0;32m#########################[s[0;37m@@@@@@@
+[0;36m$$[s[0;30m........[s[s[0;37m@[0;30m.....[s[s[0;37m@@@[0;30m...[s[s[0;37m@@@@@[0;30m..[s[s[0;37m@@[0;30m..[s[s[0;37m@@[0;30m.[s[0;32m##########################[s[0;37m@@@@@@@
+[0;30m.....[s[0;36m$$$[s[0;30m...........[s[0;36m$$[s[0;30m.[s[s[0;37m@[0;30m...[s[0;36m$$[s[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m##########################[s[0;37m@@@@@@@
+[0;30m.....[s[0;36m$[s[0;30m....[s[0;36m$$$$[s[0;30m..[s[0;36m$$$$$[s[0;30m.[s[0;36m$$$$$$[s[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m########[s[0;37m@@[0;32m######[s[0;37m@@[0;32m########[s[0;37m@@@@@@@
+[0;30m..........[s[0;36m$$$$[s[0;30m..[s[0;36m$$$$$[s[0;30m.[s[0;36m$$$$$$[s[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m#######[s[0;37m@@@@[0;32m####[s[0;37m@@@@[0;32m#######[s[0;37m@@@@@@@
+[0;36m$$[s[0;30m........[s[0;36m$[s[0;30m.....[s[0;36m$$$[s[0;30m...[s[0;36m$$$$$[s[0;30m..[s[s[0;37m@@[0;30m..[s[s[0;37m@@[0;30m.[s[0;32m#######[s[0;37m@@@@[0;32m####[s[0;37m@@@@[0;32m#######[s[0;37m@@@@@@@
+[0;30m.....[s[0;36m$$$[s[0;30m...........[s[0;36m$$[s[0;30m.[s[0;36m$[s[0;30m...[s[0;36m$$[s[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m#######[s[0;37m@@@@[0;32m####[s[0;37m@@@@[0;32m#######[s[0;37m@@@@@@@
+[0;30m.....[s[0;36m$[s[0;30m....[s[0;36m$$$$[s[0;30m..[s[0;36m$$$$$[s[0;30m.[s[0;36m$$$$$$[s[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m########[s[0;37m@@[0;32m######[s[0;37m@@[0;32m########[s[0;37m@@@@@@@
+[0;30m.[s[s[0;37m@[0;30m........[s[0;36m$$$[s[0;30m...[s[0;36m$$$$$[s[0;30m.[s[0;36m$$$$$$[s[0;30m.[s[s[0;37m@@@@[0;30m...[s[0;32m##########################[s[0;37m@@@@@@@
+@@[0;30m....[s[s[0;37m@@[0;30m........[s[0;36m$[s[0;30m.....[s[0;36m$$$[s[0;30m......[s[s[0;37m@@@@[0;30m.[s[0;32m##[s[0;37m@[0;32m####################[s[0;37m@[0;32m##[s[0;37m@@@@@@@
+[0;30m.....[s[s[0;37m@@@[0;30m....[s[s[0;37m@@[0;30m...[s[s[0;37m@@@@[0;30m...[s[s[0;37m@@@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m###[s[0;37m@[0;32m##################[s[0;37m@[0;32m###[s[0;37m@@@@@@@
+[0;30m..........[s[s[0;37m@@@@[0;30m..[s[s[0;37m@@@@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m####[s[0;37m@@[0;32m##############[s[0;37m@@[0;32m####[s[0;37m@@@@@@@
+[0;35m$$[s[0;30m........[s[s[0;37m@[0;30m.....[s[s[0;37m@@@[0;30m...[s[s[0;37m@@@@@[0;30m..[s[s[0;37m@@[0;30m..[s[s[0;37m@@[0;30m.[s[0;32m######[s[0;37m@@[0;32m##########[s[0;37m@@[0;32m######[s[0;37m@@@@@@@
+[0;30m.....[s[0;35m$$$[s[0;30m...........[s[0;35m$$[s[0;30m.[s[s[0;37m@[0;30m...[s[0;35m$$[s[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m#########[s[0;37m@@@@@@@@[0;32m#########[s[0;37m@@@@@@@
+[0;30m.....[s[0;35m$[s[0;30m....[s[0;35m$$$$[s[0;30m..[s[0;35m$$$$$[s[0;30m.[s[0;35m$$$$$$[s[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m##########################[s[0;37m@@@@@@@
+[0;30m.[s[0;35m$[s[0;30m........[s[0;35m$$$[s[0;30m...[s[0;35m$$$$$[s[0;30m.[s[0;35m$$$$$$[s[0;30m.[s[s[0;37m@@@@[0;30m...[s[0;32m##########################[s[0;37m@@@@@@@
+[0;35m$$[s[0;30m....[s[0;35m$$[s[0;30m........[s[0;35m$[s[0;30m.....[s[0;35m$$$[s[0;30m......[s[s[0;37m@@@@[0;30m.[s[0;32m##########################[s[0;37m@@@@@@@
+[0;30m.....[s[0;35m$$$[s[0;30m....[s[0;35m$$[s[0;30m...[s[0;35m$$$$[s[0;30m...[s[0;35m$$$$[s[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m######[s[0;37m@@@@@@@@@@@@@@@@@@@[0;32m#[s[0;37m@@@@@@@
+[0;30m..........[s[0;35m$$$$[s[0;30m..[s[0;35m$$$$$[s[0;30m.[s[0;35m$$$$$$[s[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[0;32m#[s[0;37m@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@[0;30m........[s[0;35m$[s[0;30m.....[s[0;35m$$$[s[0;30m...[s[0;35m$$$$$[s[0;30m..[s[s[0;37m@@[0;30m..[s[s[0;37m@@[0;30m.[s[s[0;37m@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[0;30m.....[s[s[0;37m@@@[0;30m...........[s[s[0;37m@@[0;30m.[s[0;35m$[s[0;30m...[s[s[0;37m@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[s[0;37m@@@@@@@@@[0;30m..............[s[s[0;37m@@@@@@@@@@
+[0;30m.....[s[s[0;37m@[0;30m....[s[s[0;37m@@@@[0;30m..[s[s[0;37m@@@@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[s[0;37m@@[0;30m...........................[s[s[0;37m@@@@
+[0;30m..........[s[s[0;37m@@@[0;30m...[s[s[0;37m@@@@@[0;30m.[s[s[0;37m@@@@@@[0;30m.[s[s[0;37m@@@@
+[0;30m................[s[s[0;37m@[0;30m.....[s[s[0;37m@@@   ‎
+
+[0m[36mThere are currently 3 players online.
+[0m[36m[1m[0m[36m[1m[36mC72, gimmiejimyII, Stévyn[0m[1m[36m[0m[36m[0m
+[0m[37mPlease enter your name, or "new" if you are new. [0m
+[0m[0m[32m[0m[32m[1mWelcome, [0m[32m[1m[37mdyncanary[0m[32m[1m
+Please enter your password. [0m[32m[0m
+[0m[0m[32mThank you! You are now entering the realm...[0m
+[0m[0m[1m[0m[1m[32mdyncanary has entered the realm.[0m[1m[0m
+[0m
+[0m[1m[0m[1m[37mTown Square[0m[1m[0m
+[0m[1m[0m[1m[35mYou are in the town square. This is the central meeting place for the realm.
+There is panel there for you to [0m[1m[35m[33mread[0m[1m[35m.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: C72, Stévyn, dyncanary[0m[1m[0m
+
+[0m
+[0m[1m[0m[1m[37mTown Square[0m[1m[0m
+[0m[1m[0m[1m[35mYou are in the town square. This is the central meeting place for the realm.
+There is panel there for you to [0m[1m[35m[33mread[0m[1m[35m.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: C72, Stévyn, dyncanary[0m[1m[0m
+
+[0m[0m[37m[0m[37m[1m--------------------------------------------------------------------------------
+Name             | Level     | Activity | Rank
+--------------------------------------------------------------------------------
+C72              | 93        | [0m[37m[1m[32mOnline  [0m[37m[1m | [0m[37m[1m[37mREGULAR[0m[1m[37m
+gimmiejimyII     | 40        | [0m[1m[37m[32mOnline  [0m[1m[37m | [0m[1m[37m[33mKING[0m[1m[37m
+Stévyn           | 41        | [0m[1m[37m[32mOnline  [0m[1m[37m | [0m[1m[37m[37mREGULAR[0m[1m[37m
+dyncanary        | 2         | [0m[1m[37m[32mOnline  [0m[1m[37m | [0m[1m[37m[37mREGULAR[0m[1m[37m
+--------------------------------------------------------------------------------[0m[37m[0m
+[0m[0m[37m[0m[37m[1m---------------------------------- Your Stats ----------------------------------
+Name:          dyncanary
+Rank:          REGULAR
+HP/Max:        20/20  (100%)
+[0m[37m[1m[37m[0m[37m[1m[37m[1mLevel:         2
+Experience:    21/96 (22%)[0m[37m[37m[1m[0m[37m[1m
+
+Strength:      7                Accuracy:      21
+Health:        7                Dodging:       21
+Agility:       7                Strike Damage: 1
+StatPoints:    2                Damage Absorb: 1
+--------------------------------------------------------------------------------[0m[37m[0m
+
+[0m[0m[37m[0m[37m[1m-------------------------------- Your Inventory --------------------------------
+Items:
+Weapon: NONE!
+Armor:  NONE!
+Money:  $6
+--------------------------------------------------------------------------------[0m[37m[0m
+
+[0m[0m[37m[0m[37m[1m--------------------------------- Command List ---------------------------------
+/                          - Repeats your last command exactly.
+experience                 - Shows your experience statistics
+help                       - Shows this menu
+inventory                  - Shows a list of your items
+quit                       - Allows you to leave the realm.
+remove <'weapon'/'armor'>  - removes your weapon or armor
+stats                      - Shows all of your statistics
+quests                     - Shows your achieved quests
+time                       - shows the current system time.
+use <item>                 - use an item in your inventory
+whisper <who> <msg>        - Sends message to one person
+who                        - Shows a list of everyone online
+who all                    - Shows a list of everyone
+look                       - Shows you the contents of a room
+north/east/south/west      - Moves in a direction
+run <pattern>              - Run to some location. eg: run 3w1s
+get/drop <item>            - Picks up or drops an item on the ground
+train                      - Train to the next level (TR)
+editstats                  - Edit your statistics (TR)
+list                       - Lists items in a store (ST)
+buy/sell <item>            - Buy or Sell an item in a store (ST)
+attack <enemy>             - Attack an enemy or a player (A)
+password <pass>            - Change your password
+api                        - Returns current data as json
+[0m[37m[0m--------------------------------------------------------------------------------
+
+[0m[0m[32mYou walk SOUTH.[0m
+[0m
+[0m[1m[0m[1m[37mTraining Room[0m[1m[0m
+[0m[1m[0m[1m[35mThis is the training room. An aged guru stands here, practicing his arts. He says
+[0m"If you are ready to advance, young fellow, you may [1m[33mtrain[0m here."[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[1m[0m[1m[36mdyncanary says:[0m[1m [2mMESSAGE1[0m
+[0m[0m[1m[0m[1m[36mdyncanary says:[0m[1m [2mMESSAGE2[0m
+[0m[0m[1m[0m[1m[36mdyncanary says:[0m[1m [2mMESSAGE3[0m
+[0m{"name":"dyncanary","rank":"REGULAR","experience":21,"level":2,"room":{"name":"Training Room","description":"This is the training room. An aged guru stands here, practicing his arts. He says \u001b[0m\"If you are ready to advance, young fellow, you may \u001b[1m\u001b[33mtrain\u001b[0m here.\"","items":[],"money":0,"enemies":[],"exits":["n"],"players":["dyncanary"]},"money":6,"inventory":[],"quests":["anastasis","novice reader"],"weapon":"NONE!","armor":"NONE!","statPoints":2,"hitPoints":20,"runPat":[]}
+{"name":"dyncanary","rank":"REGULAR","experience":21,"level":2,"room":{"name":"Training Room","description":"This is the training room. An aged guru stands here, practicing his arts. He says \u001b[0m\"If you are ready to advance, young fellow, you may \u001b[1m\u001b[33mtrain\u001b[0m here.\"","items":[],"money":0,"enemies":[],"exits":["n"],"players":["dyncanary"]},"money":6,"inventory":[],"quests":["anastasis","novice reader"],"weapon":"NONE!","armor":"NONE!","statPoints":2,"hitPoints":20,"runPat":[]}
+{"name":"dyncanary","rank":"REGULAR","experience":21,"level":2,"room":{"name":"Training Room","description":"This is the training room. An aged guru stands here, practicing his arts. He says \u001b[0m\"If you are ready to advance, young fellow, you may \u001b[1m\u001b[33mtrain\u001b[0m here.\"","items":[],"money":0,"enemies":[],"exits":["n"],"players":["dyncanary"]},"money":6,"inventory":[],"quests":["anastasis","novice reader"],"weapon":"NONE!","armor":"NONE!","statPoints":2,"hitPoints":20,"runPat":[]}
+[0m[1m[0m[1m[36mdyncanary says:[0m[1m [2mMESSAGE4[0m
+[0m[0m[1m[0m[1m[36mdyncanary says:[0m[1m [2mMESSAGE5[0m
+[0m[0m[1m[0m[1m[36mdyncanary says:[0m[1m [2mMESSAGE6[0m
+[0m{"name":"dyncanary","rank":"REGULAR","experience":21,"level":2,"room":{"name":"Training Room","description":"This is the training room. An aged guru stands here, practicing his arts. He says \u001b[0m\"If you are ready to advance, young fellow, you may \u001b[1m\u001b[33mtrain\u001b[0m here.\"","items":[],"money":0,"enemies":[],"exits":["n"],"players":["dyncanary"]},"money":6,"inventory":[],"quests":["anastasis","novice reader"],"weapon":"NONE!","armor":"NONE!","statPoints":2,"hitPoints":20,"runPat":[]}
+{"name":"dyncanary","rank":"REGULAR","experience":21,"level":2,"room":{"name":"Training Room","description":"This is the training room. An aged guru stands here, practicing his arts. He says \u001b[0m\"If you are ready to advance, young fellow, you may \u001b[1m\u001b[33mtrain\u001b[0m here.\"","items":[],"money":0,"enemies":[],"exits":["n"],"players":["dyncanary"]},"money":6,"inventory":[],"quests":["anastasis","novice reader"],"weapon":"NONE!","armor":"NONE!","statPoints":2,"hitPoints":20,"runPat":[]}
+{"name":"dyncanary","rank":"REGULAR","experience":21,"level":2,"room":{"name":"Training Room","description":"This is the training room. An aged guru stands here, practicing his arts. He says \u001b[0m\"If you are ready to advance, young fellow, you may \u001b[1m\u001b[33mtrain\u001b[0m here.\"","items":[],"money":0,"enemies":[],"exits":["n"],"players":["dyncanary"]},"money":6,"inventory":[],"quests":["anastasis","novice reader"],"weapon":"NONE!","armor":"NONE!","statPoints":2,"hitPoints":20,"runPat":[]}
+[0m[1m[0m[1m[36mdyncanary says:[0m[1m [2mMESSAGE7[0m
+[0m[0m[1m[0m[1m[36mdyncanary says:[0m[1m [2mMESSAGE8[0m
+[0m[0m[1m[0m[1m[36mdyncanary says:[0m[1m [2mMESSAGE9[0m
+[0m{"name":"dyncanary","rank":"REGULAR","experience":21,"level":2,"room":{"name":"Training Room","description":"This is the training room. An aged guru stands here, practicing his arts. He says \u001b[0m\"If you are ready to advance, young fellow, you may \u001b[1m\u001b[33mtrain\u001b[0m here.\"","items":[],"money":0,"enemies":[],"exits":["n"],"players":["dyncanary"]},"money":6,"inventory":[],"quests":["anastasis","novice reader"],"weapon":"NONE!","armor":"NONE!","statPoints":2,"hitPoints":20,"runPat":[]}
+{"name":"dyncanary","rank":"REGULAR","experience":21,"level":2,"room":{"name":"Training Room","description":"This is the training room. An aged guru stands here, practicing his arts. He says \u001b[0m\"If you are ready to advance, young fellow, you may \u001b[1m\u001b[33mtrain\u001b[0m here.\"","items":[],"money":0,"enemies":[],"exits":["n"],"players":["dyncanary"]},"money":6,"inventory":[],"quests":["anastasis","novice reader"],"weapon":"NONE!","armor":"NONE!","statPoints":2,"hitPoints":20,"runPat":[]}
+{"name":"dyncanary","rank":"REGULAR","experience":21,"level":2,"room":{"name":"Training Room","description":"This is the training room. An aged guru stands here, practicing his arts. He says \u001b[0m\"If you are ready to advance, young fellow, you may \u001b[1m\u001b[33mtrain\u001b[0m here.\"","items":[],"money":0,"enemies":[],"exits":["n"],"players":["dyncanary"]},"money":6,"inventory":[],"quests":["anastasis","novice reader"],"weapon":"NONE!","armor":"NONE!","statPoints":2,"hitPoints":20,"runPat":[]}
+
+[0m[1m[0m[1m[37mTown Square[0m[1m[0m
+[0m[1m[0m[1m[35mYou are in the town square. This is the central meeting place for the realm.
+There is panel there for you to [0m[1m[35m[33mread[0m[1m[35m.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: C72, Stévyn, dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mAvenue[0m[1m[0m
+[0m[1m[0m[1m[35mYou're on an avenue running through the town.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk SOUTH.[0m
+[0m
+[0m[1m[0m[1m[37mDobs Weapon Shop[0m[1m[0m
+[0m[1m[0m[1m[35mYou see lots of crap available to buy all over the room, and Bob grinning at you
+from behind a counter. He says [0m"Please, come in, shop around, and take a glance at
+my [1m[33mlist[0m."[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[37m[0m[37m[1m--------------------------------------------------------------------------------
+Welcome to Dobs Weapon Shop!
+--------------------------------------------------------------------------------
+Item                           | Price
+--------------------------------------------------------------------------------
+Rusty Knife                    | 5
+Knife                          | 15
+Dagger                         | 40
+Shortsword                     | 50
+Broadsword                     | 300
+Longsword                      | 600
+Club                           | 100
+Mace                           | 500
+Jeweled Dagger                 | 700
+Jeweled Shortsword             | 1400
+--------------------------------------------------------------------------------
+[0m[37m[0m
+[0m[0m[32mYou walk NORTH.[0m
+[0m
+[0m[1m[0m[1m[37mAvenue[0m[1m[0m
+[0m[1m[0m[1m[35mYou're on an avenue running through the town.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mTown Square[0m[1m[0m
+[0m[1m[0m[1m[35mYou are in the town square. This is the central meeting place for the realm.
+There is panel there for you to [0m[1m[35m[33mread[0m[1m[35m.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: C72, Stévyn, dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mPlane tree alley[0m[1m[0m
+[0m[1m[0m[1m[35mThis place used to be infested with monkeys until the mayor decided to chase them
+away and make it safer.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mAlley[0m[1m[0m
+[0m[1m[0m[1m[35mThis place looks safe enough.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mAlley Junction[0m[1m[0m
+[0m[1m[0m[1m[35mYou're at a junction in the alley; it's barely visible here, but you can make out
+some small cages lying on the floor.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mParkway[0m[1m[0m
+[0m[1m[0m[1m[35mYou're in the town park, and you can see foliage all over the place. You can also
+hear ducks quacking.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mPark Entrance[0m[1m[0m
+[0m[1m[0m[1m[35mYou're in the town park, and you can see foliage all over the place. You can also
+hear birds chirping.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mRoyal park[0m[1m[0m
+[0m[1m[0m[1m[35mThe flowers are dried up, and a few pigs are parading in the grass.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Frog[0m[1m[0m
+
+[0m[0m[31mFrog hits dyncanary for 2 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[32m18[0m[37m[1m/20][0m[37m[0m
+[0m[0m[37mdyncanary swings at Frog but misses![0m
+[0m[0m[37mFrog swings at dyncanary but misses![0m
+[0m[0m[31m[0m[31m[1mYou can't attack yet![0m[31m[0m
+[0m[0m[37mFrog swings at dyncanary but misses![0m
+[0m[0m[37mdyncanary swings at Frog but misses![0m
+[0m[0m[31m[0m[31m[1mYou can't attack yet![0m[31m[0m
+[0m[0m[37mFrog swings at dyncanary but misses![0m
+[0m[0m[37mFrog swings at dyncanary but misses![0m
+[0m[0m[37mdyncanary swings at Frog but misses![0m
+[0m[0m[31m[0m[31m[1mYou can't attack yet![0m[31m[0m
+[0m[0m[37mFrog swings at dyncanary but misses![0m
+[0m[0m[32m[0m[32m[1mdyncanary hits Frog for 2 damage![0m[32m[0m
+[0m[0m[36m[0m[36m[1mFrog has died![0m[36m[0m
+[0m[0m[36m$1 drops to the ground.[0m
+[0m[0m[36m[0m[36m[1mYou gain 2 experience.[0m[36m[0m
+[0m[0m[31m[0m[31m[1mFrog enters the room![0m[31m[0m
+[0m[0m[37mFrog swings at dyncanary but misses![0m
+[0m[0m[36m[0m[36m[1mdyncanary picks up $1.[0m[36m[0m
+[0m[0m[37mdyncanary swings at Frog but misses![0m
+[0m[0m[37mFrog swings at dyncanary but misses![0m
+[0m[0m[37mdyncanary swings at Frog but misses![0m
+[0m[0m[37mdyncanary swings at Frog but misses![0m
+[0m[0m[37mFrog swings at dyncanary but misses![0m
+[0m[0m[32m[0m[32m[1mdyncanary hits Frog for 1 damage![0m[32m[0m
+[0m[0m[37mFrog swings at dyncanary but misses![0m
+[0m[0m[37mdyncanary swings at Frog but misses![0m
+[0m[0m[31mFrog hits dyncanary for 2 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[32m18[0m[37m[1m/20][0m[37m[0m
+[0m[0m[32m[0m[32m[1mdyncanary hits Frog for 1 damage![0m[32m[0m
+[0m[0m[36m[0m[36m[1mFrog has died![0m[36m[0m
+[0m[0m[36m[0m[36m[1mYou gain 2 experience.[0m[36m[0m
+[0m
+[0m[1m[0m[1m[37mRoyal park[0m[1m[0m
+[0m[1m[0m[1m[35mThe flowers are dried up, and a few pigs are parading in the grass.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mRoyal park[0m[1m[0m
+[0m[1m[0m[1m[35mThe earth and the sky, clouds and the sun, the earth itself...it never got better. 
+The heavens and earth never warmed up. The sun and the clouds never shone.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Goose[0m[1m[0m
+
+[0m[0m[37mGoose swings at dyncanary but misses![0m
+[0m[0m[37mdyncanary swings at Goose but misses![0m
+[0m[0m[32m[0m[32m[1mdyncanary hits Goose for 1 damage![0m[32m[0m
+[0m[0m[31mGoose hits dyncanary for 4 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[32m14[0m[37m[1m/20][0m[37m[0m
+[0m[0m[37mdyncanary swings at Goose but misses![0m
+[0m[0m[37mdyncanary swings at Goose but misses![0m
+[0m[0m[31mGoose hits dyncanary for 4 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m10[0m[37m[1m/20][0m[37m[0m
+[0m[0m[37mdyncanary swings at Goose but misses![0m
+[0m[0m[37mGoose swings at dyncanary but misses![0m
+[0m[0m[37mdyncanary swings at Goose but misses![0m
+[0m[0m[32m[0m[32m[1mdyncanary hits Goose for 1 damage![0m[32m[0m
+[0m[0m[31m[0m[31m[1mYou can't attack yet![0m[31m[0m
+[0m[0m[31mGoose hits dyncanary for 4 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m6[0m[37m[1m/20][0m[37m[0m
+[0m[0m[37mdyncanary swings at Goose but misses![0m
+[0m[0m[31m[0m[31m[1mYou can't attack yet![0m[31m[0m
+[0m[0m[37mGoose swings at dyncanary but misses![0m
+[0m[0m[37mdyncanary swings at Goose but misses![0m
+[0m[0m[31m[0m[31m[1mYou can't attack yet![0m[31m[0m
+[0m[0m[37mGoose swings at dyncanary but misses![0m
+[0m[0m[37mdyncanary swings at Goose but misses![0m
+[0m[0m[31m[0m[31m[1mYou can't attack yet![0m[31m[0m
+[0m[0m[31mGoose hits dyncanary for 4 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m2[0m[37m[1m/20][0m[37m[0m
+[0m[0m[37mdyncanary swings at Goose but misses![0m
+[0m[0m[31m[0m[31m[1mYou can't attack yet![0m[31m[0m
+[0m[0m[31mGoose hits dyncanary for 4 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m0[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31m[0m[31m[1mdyncanary has died![0m[31m[0m
+[0m[0m[37m[0m[37m[1mYou have died, but have been ressurected in Town Square[0m[37m[0m
+[0m[0m[31m[0m[31m[1mYou have lost 2 experience![0m[31m[0m
+[0m[0m[37m[0m[37m[1mdyncanary appears out of nowhere!![0m[37m[0m
+[0m[0m[31m[0m[31m[1mYou don't see that here![0m[31m[0m
+[0m
+[0m[1m[0m[1m[37mTown Square[0m[1m[0m
+[0m[1m[0m[1m[35mYou are in the town square. This is the central meeting place for the realm.
+There is panel there for you to [0m[1m[35m[33mread[0m[1m[35m.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: C72, Stévyn, dyncanary[0m[1m[0m
+
+[0m
+[0m[1m[0m[1m[37mHell[0m[1m[0m
+[0m[1m[0m[1m[35mYou're in hell. You should have turned away when you had the chance, but no, you
+didn't. And now you're going to die. Have fun being dead.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk NORTH.[0m
+[0m
+[0m[1m[0m[1m[37mHell[0m[1m[0m
+[0m[1m[0m[1m[35mYou're in hell. You should have turned away when you had the chance, but no, you, an
+adventurer, didn't listen. And now you're going to die. Have fun being dead.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mHell[0m[1m[0m
+[0m[1m[0m[1m[35mYou're in hell. You should have turned away when you had the chance, but no, you
+didn't. And now you're going to die. Have fun being dead.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[33mYou see: $116, Longsword of Power[0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Polite demon[0m[1m[0m
+
+[0m[0m[37mPolite demon swings at dyncanary but misses![0m
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mHell's bathroom[0m[1m[0m
+[0m[1m[0m[1m[35mThe bathroom is divided in 3 parts. 
+The first part is the shower, the second part is the toilet and the third part is
+the sink. 
+In the shower, the walls are covered by a layer of mould. The shower is dirty and
+the water is dirty as well. 
+The toilet is full of shit and piss. The sink is dirty and there are a lot of flies
+in the sink. 
+The air is dirty and there is a bad smell everywhere. The floor is dirty and there
+are a lot of lice everywhere. 
+There are a lot of cockroaches everywhere.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: WEST  [0m[1m[0m
+[0m[1m[0m[1m[33mYou see: $71[0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Cockroach, Cockroach, Cockroach, Cockroach, Cockroach, Cockroach,
+Cockroach, Cockroach, Cockroach, Cockroach, Cockroach, Cockroach, Cockroach,
+Cockroach, Cockroach[0m[1m[0m
+
+[0m[0m[37mCockroach swings at dyncanary but misses![0m
+[0m[0m[37mCockroach swings at dyncanary but misses![0m
+[0m[0m[37mCockroach swings at dyncanary but misses![0m
+[0m[0m[37mCockroach swings at dyncanary but misses![0m
+[0m[0m[37mCockroach swings at dyncanary but misses![0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m13[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m12[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m11[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m10[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m9[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m8[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m7[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m6[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m5[0m[37m[1m/20][0m[37m[0m
+[0m[0m[37mCockroach swings at dyncanary but misses![0m
+[0m[0m[31mdyncanary bumps into the wall to the EAST!!![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m4[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m3[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mdyncanary bumps into the wall to the EAST!!![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m2[0m[37m[1m/20][0m[37m[0m
+[0m[0m[37mCockroach swings at dyncanary but misses![0m
+[0m[0m[37mCockroach swings at dyncanary but misses![0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m1[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mCockroach hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[31m0[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31m[0m[31m[1mdyncanary has died![0m[31m[0m
+[0m[0m[37m[0m[37m[1mYou have died, but have been ressurected in Town Square[0m[37m[0m
+[0m[0m[31m[0m[31m[1mYou have lost 2 experience![0m[31m[0m
+[0m[0m[37m[0m[37m[1mdyncanary appears out of nowhere!![0m[37m[0m
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mAvenue[0m[1m[0m
+[0m[1m[0m[1m[35mYou're on an avenue running through the town.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[31mdyncanary bumps into the wall to the NORTH!!![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m13[0m[37m[1m/20][0m[37m[0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[32m16[0m[37m[1m/20][0m[37m[0m
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mTown Square[0m[1m[0m
+[0m[1m[0m[1m[35mYou are in the town square. This is the central meeting place for the realm.
+There is panel there for you to [0m[1m[35m[33mread[0m[1m[35m.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: C72, Stévyn, dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk NORTH.[0m
+[0m
+[0m[1m[0m[1m[37mStreet[0m[1m[0m
+[0m[1m[0m[1m[35mYou are in a small street. Litter is strewn about, and you see rats crawling in and
+out of the sewer grating.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk NORTH.[0m
+[0m
+[0m[1m[0m[1m[37mTown Gates[0m[1m[0m
+[0m[1m[0m[1m[35mYou're at the town gates, which lead into the dark forest.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  SOUTH  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk NORTH.[0m
+[0m
+[0m[1m[0m[1m[37mDark Forest Entrance[0m[1m[0m
+[0m[1m[0m[1m[35mThis is the entrace of the dark forest, where all sorts of strange noises eminate.
+You see a gate into town to the south.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk NORTH.[0m
+[0m
+[0m[1m[0m[1m[37mDark Forest Foliage[0m[1m[0m
+[0m[1m[0m[1m[35mYou're in the heart of the forest, with thick foliage all over the place, obscuring
+many things.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  SOUTH  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk NORTH.[0m
+[0m
+[0m[1m[0m[1m[37mDark Forest Clearing[0m[1m[0m
+[0m[1m[0m[1m[35mYou're in a clearing within the heart of the forest, with thick foliage all over the
+place, obscuring many things.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mForest[0m[1m[0m
+[0m[1m[0m[1m[35mYou arrive at a large clearing, a monk stands in the middle of it.
+It seems to be the starting point of some kind of procession since, from a distance,
+you can see many tiny red pilgrims wandering like balloons on their way to the
+horizon.
+[0m"This is indeed the perpetual pilgrimage of perception" says the monk "I can guide
+you through it but first I need to test your vision. Look over there and tell me how
+many pilgrims you can see."[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0mYou can not pass.
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mDark Forest Clearing[0m[1m[0m
+[0m[1m[0m[1m[35mYou're in a clearing within the heart of the forest, with thick foliage all over the
+place, obscuring many things.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk SOUTH.[0m
+[0m
+[0m[1m[0m[1m[37mDark Forest Foliage[0m[1m[0m
+[0m[1m[0m[1m[35mYou're in the heart of the forest, with thick foliage all over the place, obscuring
+many things.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  SOUTH  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk SOUTH.[0m
+[0m
+[0m[1m[0m[1m[37mDark Forest Entrance[0m[1m[0m
+[0m[1m[0m[1m[35mThis is the entrace of the dark forest, where all sorts of strange noises eminate.
+You see a gate into town to the south.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mDark Forest Path[0m[1m[0m
+[0m[1m[0m[1m[35mThis is a small pathway, overgrown with shrubbery and foliage, winding through the
+dark forest.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Idiot bird[0m[1m[0m
+
+[0m[0m[37mIdiot bird swings at dyncanary but misses![0m
+[0m[0m[31mIdiot bird hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[32m15[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mIdiot bird hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[32m14[0m[37m[1m/20][0m[37m[0m
+[0m[0m[32m[0m[32m[1mdyncanary hits Idiot bird for 2 damage![0m[32m[0m
+[0m[0m[36m[0m[36m[1mIdiot bird has died![0m[36m[0m
+[0m[0m[36m[0m[36m[1mYou gain 1 experience.[0m[36m[0m
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mDilapidated hut[0m[1m[0m
+[0m[1m[0m[1m[35mNext to an elm, you see a small seemingly abandoned hut.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mOrchard[0m[1m[0m
+[0m[1m[0m[1m[35mA small but flourishing orchard stands there, hidden in the forest.
+It is a common practice here to poison a random tree to keep thieves away... Better
+not to try.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Rabid Monkey[0m[1m[0m
+
+[0m[0m[37mRabid Monkey swings at dyncanary but misses![0m
+[0m[0m[37mRabid Monkey swings at dyncanary but misses![0m
+[0m[0m[32m[0m[32m[1mdyncanary hits Rabid Monkey for 4 damage![0m[32m[0m
+[0m[0m[36m[0m[36m[1mRabid Monkey has died![0m[36m[0m
+[0m[0m[36m$4 drops to the ground.[0m
+[0m[0m[36m[0m[36m[1mYou gain 20 experience.[0m[36m[0m
+[0m[0m[36m[0m[36m[1mdyncanary picks up $4.[0m[36m[0m
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mDark forest[0m[1m[0m
+[0m[1m[0m[1m[35mMore dark forest.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mVineyard[0m[1m[0m
+[0m[1m[0m[1m[35mThere is a small private vineyard here.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Ant[0m[1m[0m
+
+[0m[0m[31mAnt hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m13[0m[37m[1m/20][0m[37m[0m
+[0m[0m[37mAnt swings at dyncanary but misses![0m
+[0m[0m[37mdyncanary swings at Ant but misses![0m
+[0m[0m[31mAnt hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m12[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31m[0m[31m[1mYou can't attack yet![0m[31m[0m
+[0m[0m[37mAnt swings at dyncanary but misses![0m
+[0m[0m[32m[0m[32m[1mdyncanary hits Ant for 2 damage![0m[32m[0m
+[0m[0m[36m[0m[36m[1mAnt has died![0m[36m[0m
+[0m[0m[36m[0m[36m[1mYou gain 3 experience.[0m[36m[0m
+[0m[0m[32mYou walk WEST.[0m
+[0m
+[0m[1m[0m[1m[37mFallow[0m[1m[0m
+[0m[1m[0m[1m[35mThere used to be something here but right now it's just a plain field with weeds.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[33mYou see: $9[0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Cute lamb, Wooden trunk[0m[1m[0m
+
+[0m[0m[37mCute lamb swings at dyncanary but misses![0m
+[0m[0m[37mWooden trunk swings at dyncanary but misses![0m
+[0m[0m[37mWooden trunk swings at dyncanary but misses![0m
+[0m[0m[36m[0m[36m[1mdyncanary picks up $9.[0m[36m[0m
+[0m[0m[37mWooden trunk swings at dyncanary but misses![0m
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mVineyard[0m[1m[0m
+[0m[1m[0m[1m[35mThere is a small private vineyard here.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mDark forest[0m[1m[0m
+[0m[1m[0m[1m[35mMore dark forest.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[32m15[0m[37m[1m/20][0m[37m[0m
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mOrchard[0m[1m[0m
+[0m[1m[0m[1m[35mA small but flourishing orchard stands there, hidden in the forest.
+It is a common practice here to poison a random tree to keep thieves away... Better
+not to try.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Rabid Monkey[0m[1m[0m
+
+[0m[0m[37mRabid Monkey swings at dyncanary but misses![0m
+[0m[0m[37mRabid Monkey swings at dyncanary but misses![0m
+[0m[0m[37mRabid Monkey swings at dyncanary but misses![0m
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mDilapidated hut[0m[1m[0m
+[0m[1m[0m[1m[35mNext to an elm, you see a small seemingly abandoned hut.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mDark Forest Path[0m[1m[0m
+[0m[1m[0m[1m[35mThis is a small pathway, overgrown with shrubbery and foliage, winding through the
+dark forest.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: EAST  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+[0m[1m[0m[1m[31mEnemies: Idiot bird[0m[1m[0m
+
+[0m[0m[31mIdiot bird hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[32m14[0m[37m[1m/20][0m[37m[0m
+[0m[0m[31mIdiot bird hits dyncanary for 1 damage![0m
+[0m[0m[37m[0m[37m[1m[[0m[37m[1m[33m13[0m[37m[1m/20][0m[37m[0m
+[0m[0m[32mYou walk EAST.[0m
+[0m
+[0m[1m[0m[1m[37mDark Forest Entrance[0m[1m[0m
+[0m[1m[0m[1m[35mThis is the entrace of the dark forest, where all sorts of strange noises eminate.
+You see a gate into town to the south.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk SOUTH.[0m
+[0m
+[0m[1m[0m[1m[37mTown Gates[0m[1m[0m
+[0m[1m[0m[1m[35mYou're at the town gates, which lead into the dark forest.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  SOUTH  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk SOUTH.[0m
+[0m
+[0m[1m[0m[1m[37mStreet[0m[1m[0m
+[0m[1m[0m[1m[35mYou are in a small street. Litter is strewn about, and you see rats crawling in and
+out of the sewer grating.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: dyncanary[0m[1m[0m
+
+[0m[0m[32mYou walk SOUTH.[0m
+[0m
+[0m[1m[0m[1m[37mTown Square[0m[1m[0m
+[0m[1m[0m[1m[35mYou are in the town square. This is the central meeting place for the realm.
+There is panel there for you to [0m[1m[35m[33mread[0m[1m[35m.[0m[1m[0m
+[0m[1m[0m[1m[32mexits: NORTH  EAST  SOUTH  WEST  [0m[1m[0m
+[0m[1m[0m[1m[36mPeople: C72, Stévyn, dyncanary[0m[1m[0m
+
+[0m[0m[37m[0m[37m[1m-------------------------------- Your Inventory --------------------------------
+Items:
+Weapon: NONE!
+Armor:  NONE!
+Money:  $20
+--------------------------------------------------------------------------------[0m[37m[0m
+
+[0m[0m[37m[0m[37m[1m---------------------------------- Your Stats ----------------------------------
+Name:          dyncanary
+Rank:          REGULAR
+HP/Max:        13/20  (65%)
+[0m[37m[1m[37m[0m[37m[1m[37m[1mLevel:         2
+Experience:    45/96 (47%)[0m[37m[37m[1m[0m[37m[1m
+
+Strength:      7                Accuracy:      21
+Health:        7                Dodging:       21
+Agility:       7                Strike Damage: 1
+StatPoints:    2                Damage Absorb: 1
+--------------------------------------------------------------------------------[0m[37m[0m
+
+[0m
